@@ -240,7 +240,7 @@ def train_final_model(X, y, target, best_params, outdir="artifacts_lgbm", random
 
     dump(final_model, Path(outdir) / f"{target}_final_model.pkl")
 
-    print(f"✓ Final model for {target} saved")
+    print(f"Final model for {target} saved")
     return final_model
 
 
