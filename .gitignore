@@ -30,7 +30,7 @@ data/
 Thumbs.db
 
 # Models
-models/
+# models/
 *.pt
 *.pth
 *.onnx
