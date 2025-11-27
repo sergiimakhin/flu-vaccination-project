@@ -17,7 +17,7 @@ ENV/
 data/
 *.csv
 *.parquet
-*.pkl
+# *.pkl
 *.h5
 *.joblib
 
