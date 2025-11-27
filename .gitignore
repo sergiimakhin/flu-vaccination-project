@@ -40,4 +40,4 @@ logs/
 *.log
 
 # Artifacts
-artifacts/
+# artifacts/
